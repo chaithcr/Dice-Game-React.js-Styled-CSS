@@ -24,6 +24,8 @@ const RuleBox = styled.div`
   margin-bottom: 30px;
   border-radius: 10px;
   padding: 10px;
+  display:flex;
+  align-item:center;
 
   h3 {
     margin: 10px 0;
